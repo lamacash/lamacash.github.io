@@ -10,7 +10,7 @@ hero:
   text: "зарабатывай, играя"
   actions:
     - theme: brand
-      text: Телеграм-канал
+      text: Telegram-канал
       link: https://t.me/LamaCashApp
     - theme: alt
       text: Читать wiki
