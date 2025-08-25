@@ -1,0 +1,26 @@
+{
+  "description": "LamaCash - зарабатывай, играя",
+  "homepage": "lamacash.github.io/wiki/",
+  "license": "CLA",
+  "bugs": {
+    "url": "https://github.com/lamacash/lamacash.github.io"
+  },
+  "keywords": [
+    "wiki",
+	"lama",
+	"lamacash",
+	"payeer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lamacash/lamacash.github.io"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
