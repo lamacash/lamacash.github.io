@@ -58,3 +58,8 @@
 - Root (magisk, xposed): запрещено.
 - Кастомные прошивки (LineageOS и др.): запрещено.
 - Режим разработчика/отладка по USB: запрещено.
+
+## Ссылочки:
+<CustomLinkComponent href="https://t.me/lamacashapp" title="Telegram-канал" />
+<CustomLinkComponent href="https://t.me/+PDaUJGuYH2UyYmFi" title="Сообщество" />
+<CustomLinkComponent href="https://t.me/lamasupportbot" title="Поддержка" />
