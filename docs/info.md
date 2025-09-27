@@ -47,7 +47,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'public/dinojump.webp',
+    avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/dinojump.webp',
     name: 'Dino Jump',
     title: 'работает, лимит 769 ур',
     links: [
@@ -55,7 +55,7 @@ const members = [
     ]
   },
   {
-    avatar: 'public/spikebird.webp',
+    avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/spikebird.webp',
     name: 'Spike Bird',
     title: 'beta-версия',
     links: [
