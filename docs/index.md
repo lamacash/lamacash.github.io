@@ -13,9 +13,8 @@ hero:
       text: Telegram-канал
       link: https://t.me/LamaCashApp
     - theme: alt
-      text: Читать wiki
-      link: /main
-
+      text: Читать wiki 
+      link: /start
 features:
   - icon: <i class="fa-solid fa-rocket"></i>
     title: Начать играть
@@ -28,11 +27,3 @@ features:
     link: "/advice"
     linkText: "Читать"
 ---
-
-## Новости:
-
-::: details Аезуеть!
-Админ сайта благополучно ~~забил~~ забыл про сайт и не обновлял его 2 недели :/ <br>
-###### 23.09.25
-:::
-

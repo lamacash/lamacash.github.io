@@ -63,6 +63,7 @@ export default defineConfig({
     sidebar,
     socialLinks: [
       { icon: 'telegram', link: 'https://t.me/LamaCashApp' },
+      { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.joyreward.lamacash' },
     ],
     outlineTitle: 'Оглавление',
     returnToTopLabel: 'Наверх',
