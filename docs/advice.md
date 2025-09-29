@@ -7,7 +7,7 @@ const members = [
   {
     avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/spikebird.webp',
     name: 'Spike Bird',
-    title: 'Работает, лимит 1500 ур',
+    title: 'работает, лимит 1500 ур',
     links: [
       { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.spikebird.spiky.birdy' },
     ]
