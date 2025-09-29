@@ -41,23 +41,23 @@
 | 250 ₽ | 864500 |
 
 
-## Доступные игры:
+## Игры:
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/dinojump.webp',
-    name: 'Dino Jump',
-    title: 'работает, лимит 769 ур',
+    avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/foxyjump.webp',
+    name: 'Foxy Jump',
+    title: 'в разработке',
     links: [
-      { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.dinojump.jump.dinosaur' },
+      { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.foxy.jumpfoxy.foxy' },
     ]
   },
   {
     avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/spikebird.webp',
     name: 'Spike Bird',
-    title: 'beta-версия',
+    title: 'работает, лимит 1500 ур',
     links: [
       { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.spikebird.spiky.birdy' },
     ]
