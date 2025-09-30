@@ -49,7 +49,7 @@ const members = [
   {
     avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/foxyjump.webp',
     name: 'Foxy Jump',
-    title: 'в разработке',
+    title: 'работает, лимит 1500 ур',
     links: [
       { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.foxy.jumpfoxy.foxy' },
     ]
@@ -67,7 +67,7 @@ const members = [
 
 <VPTeamMembers size="medium" :members />
 ## Лимиты и ограничения:
-- Уровни для одной игры за 24ч: 769 уровней.
+- Уровни для одной игры за 24ч: 1500 уровней.
 - Количество реклам за 24ч для одной игры: 500 реклам.
 - Максимум устройств для одной игры на одном IP: 3 устройства.
 - Максимум сбросов рекламных айди за 24ч для одной игры: 10 GAID-ов.
