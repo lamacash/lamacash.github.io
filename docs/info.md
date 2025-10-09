@@ -49,7 +49,7 @@ const members = [
   {
     avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/foxyjump.webp',
     name: 'Foxy Jump',
-    title: 'работает, лимит 1500 ур',
+    title: 'работает, лимит 4500 ур',
     links: [
       { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.foxy.jumpfoxy.foxy' },
     ]
@@ -57,7 +57,7 @@ const members = [
   {
     avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/spikebird.webp',
     name: 'Spike Bird',
-    title: 'работает, лимит 1500 ур',
+    title: 'работает, лимит 4500 ур',
     links: [
       { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.spikebird.spiky.birdy' },
     ]
@@ -67,7 +67,7 @@ const members = [
 
 <VPTeamMembers size="medium" :members />
 ## Лимиты и ограничения:
-- Уровни для одной игры за 24ч: 1500 уровней.
+- Уровни для одной игры за 24ч: 4500 уровней.
 - Количество реклам за 24ч для одной игры: 500 реклам.
 - Максимум устройств для одной игры на одном IP: 3 устройства.
 - Максимум сбросов рекламных айди за 24ч для одной игры: 10 GAID-ов.
@@ -81,18 +81,19 @@ const members = [
 ::: tip
 Каждый раздел можно открыть/закрыть для подробного значения, нажав на него.
 :::
-::: details 1. Используйте топики по назначению.
-Основное общение ведётся в топике "Болталка", а то, что связано с багами/проблемами, обсуждается в топике "Помощь/Баги".
+::: details 1. Ведите общение без оскорблений, провокаций и дискриминации
+Уважаем собеседника и его точку зрения. Токсичное поведение недопустимо.
 :::
-::: details 2. Ведите общение без оскорблений и слива личных данных.
-Не используйте нецензурные слова в чате при любых обстоятельствах, и не отправляйте личные данные других участников без их согласия (адрес, номер телефона/карты, список групп и т. д.).
+::: details 2. Без политики и острых тем
+Не обсуждайте в чате то, что связано с политическими ситуациями в мире, оскорбление власти и подобные вещи. <br>
+~оскорблять РКН разрешается~
 :::
 ::: details 3. Не распространяйте рекламу/спам.
 Не отправляйте ссылки на другие ресурсы, не связанные с LamaCash.
 _Реклама/спам в ЛС участникам чата также запрещена._
 :::
-::: details 4. Не флудите в чате.
-Под понятием "флуд" подразумевается: длинные сообщения, состоящие из одних смайликов/повторяющихся символов, а также сообщения 1000+ символов, не имеющие смысла.
+::: details 4. Соблюдайте рамки приличия
+Запрещено отправлять в чат: 18+ контент, NSFW (not safe for work), использование мата (даже скрытого) запрещено.
 :::
 ## Ссылочки:
 <CustomLinkComponent href="https://t.me/lamacashapp" title="Telegram-канал" />
@@ -100,4 +101,4 @@ _Реклама/спам в ЛС участникам чата также зап
 <CustomLinkComponent href="https://t.me/lamasupportbot" title="Поддержка" />
 <CustomLinkComponent href="https://t.me/lamaappbot/app?startapp=ref_111540" title="Mini-APP в Telegram" />
 
-<Badge type="tip" text="version 2.0" />
+<Badge type="tip" text="version 2.1" />
