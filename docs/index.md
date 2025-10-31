@@ -12,18 +12,10 @@ hero:
     - theme: brand
       text: Telegram-канал
       link: https://t.me/LamaCashApp
-    - theme: alt
-      text: Читать wiki 
-      link: /start
 features:
-  - icon: <i class="fa-solid fa-rocket"></i>
-    title: Начать играть
-    details: Узнайте, как быстро начать заработок.
-    link: "/start"
-    linkText: "Читать"
-  - icon: <i class="fa-solid fa-puzzle-piece"></i>
-    title: Советы
-    details: Ознакомьтесь с советами для увеличения дохода и решения неполадок.
-    link: "/advice"
-    linkText: "Читать"
+  - icon: <i class="fa-solid fa-face-sab-cry"></i>
+    title: Сожалеем, но
+    details: ЛамаКэш встает на паузу...
+    link: "https://t.me/c/2525167025/42828/70081"
+    linkText: "Подробнее"
 ---
