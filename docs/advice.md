@@ -1,17 +1,20 @@
 # Советы
+::: warning Важно!
+Сейчас LamaCash на паузе до 2026 года! Подробнее: https://t.me/c/2525167025/42828/70081
+:::
 ## Игра недели:
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://raw.githubusercontent.com/lamacash/lamacash.github.io/refs/heads/main/docs/public/spikebird.webp',
-    name: 'Spike Bird',
-    title: 'работает, лимит 4500 ур',
+    avatar: 'https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/atom/atom-original.svg',
+    name: 'Неизвестно',
+    title: 'lamacash на паузе',
     links: [
-      { icon: 'googleplay', link: 'https://play.google.com/store/apps/details?id=com.spikebird.spiky.birdy' },
+      { icon: 'telegram', link: 'https://t.me/c/2525167025/42828/70081' },
     ]
-  }
+  },
 ]
 </script>
 

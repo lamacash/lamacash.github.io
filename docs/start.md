@@ -1,5 +1,8 @@
 # Начать заработок
 ---
+::: warning Важно!
+Сейчас LamaCash на паузе до 2026 года! Подробнее: https://t.me/c/2525167025/42828/70081
+:::
 ### Скачивание приложения
 
 <CustomLinkComponent href="https://play.google.com/store/apps/details?id=com.joyreward.lamacash" title="Ссылка на скачивание (клик)" />
